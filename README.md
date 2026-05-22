@@ -164,7 +164,7 @@ Centre for Development of Advanced Computing (C-DAC)
 
 📧 Email: shivansh.rastogi@gmail.com  
 📍 Location: Noida, India  
-💼 LinkedIn: linkedin.com/in/shivansh-rastogi-9917a513
+💼 LinkedIn: https://www.linkedin.com/in/shivansh-rastogi-9917a513/
 
 ---
 
